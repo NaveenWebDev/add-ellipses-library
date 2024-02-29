@@ -1,0 +1,23 @@
+{
+  "name": "add-ellipses",
+  "version": "1.0.0",
+  "description": "This library help you to add ellipses in your paragraph easily",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NaveenWebDev/add-ellipses-library.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Naveen Sharma",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/NaveenWebDev/add-ellipses-library/issues"
+  },
+  "homepage": "https://github.com/NaveenWebDev/add-ellipses-library#readme"
+}
