@@ -1,7 +1,7 @@
 {
   "name": "add-ellipses",
-  "version": "1.0.0",
-  "description": "This library help you to add ellipses in your paragraph easily",
+  "version": "2.0.0",
+  "description": "This library help you to add custom ellipses in your paragraph easily",
   "main": "index.js",
   "type": "module",
   "scripts": {
