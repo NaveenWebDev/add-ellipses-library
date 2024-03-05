@@ -3,7 +3,14 @@
 ```js
 import {addElipsis} from "add-ellipses"
 
-addElipsis("I am a best software engineer", 10)
+[input] = addElipsis("I am a best software engineer", 10)
+[output] = I am a bes...
+
+Custom ellipsis
+
+[input] = addElipsis("I am a best software engineer", 10, ">>>")
+[output] = I am a bes>>>
+
 ```
 
 ## Installation
